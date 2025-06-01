@@ -1,2 +1,2 @@
 # Coding
-This file contains java programming, core Java programming, Spring Bott and Angular codes which is practiced by me 
+This file contains java programming, core Java programming, Spring Boot and Angular codes which is practiced by me 
